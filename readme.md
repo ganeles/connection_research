@@ -43,8 +43,7 @@ Let\'s start with the script RunTimeSettings:
 
  
 
-![](./images/media/image1.png){width="6.5in"
-height="4.042361111111111in"}
+![](./images/media/image1.png)
 
  
 
@@ -74,7 +73,7 @@ Parameter substitution o Data returned by server Advanced trace Include
 environment information Print timestamp for \'Message Functions\' Log
 View USE DEFAULTS O 10 Enables you to configure the amount and types of
 information that are recorded in the log int
-](./images/media/image2.png){width="6.5in" height="4.042361111111111in"}
+](./images/media/image2.png)
 
  
 
@@ -98,7 +97,7 @@ transactions @ Optimal percentile (T-Digest) Data and logs Stream errors
 to Splunk Store errors Store transactions raw data Learn more Collect
 Vuser logs from cloud-based load generators (D Collect Vuser logs from
 on-premises load generators G)
-](./images/media/image3.png){width="4.799305555555556in" height="9.0in"}
+](./images/media/image3.png)
 
  
 
@@ -118,8 +117,7 @@ environment Setting up load test machines for \'N. Virginia (AIS) \'
 Loading scripts„. Scripts successfully loaded Setting up the test
 environment 20 out of 20 Vusers are ready. The last Vuser was ready
 ea:IS ago Download LG IPS Resume Stop
-](./images/media/image4.png){width="6.5in"
-height="3.5993055555555555in"}
+](./images/media/image4.png)
 
  
 
@@ -165,8 +163,7 @@ To find the IP-address, we will use following command in CMD:
 
  
 
-![](./images/media/image5.png){width="5.159722222222222in"
-height="3.1680555555555556in"}
+![](./images/media/image5.png)
 
  
 
@@ -210,8 +207,7 @@ If we have multiple IP-addresses, we can write them all using &&
 
  
 
-![](./images/media/image6.png){width="6.495833333333334in"
-height="4.024305555555555in"}
+![](./images/media/image6.png)
 
  
 
@@ -226,9 +222,7 @@ will run in 57:38 minutes Requesting machines for the test environment
 Setting up load test machines for \'N. Virginia (AIS) \' Loading
 scripts„. Scripts successfully loaded Setting up the test environment 20
 out of 20 Vusers are ready. The last Vuser was ready ea:IS ago Download
-LG IPS Resume Stop ](./images/media/image7.png){width="6.5in"
-height="3.636111111111111in"}
-
+LG IPS Resume Stop ](./images/media/image7.png)
  
 
 ** **
@@ -271,16 +265,13 @@ Set as benchmark Export / Download Report to PDF Report to Word Results
 to CSV Transactions to CSV Errors to CSV Logs NV Insights report LG
 Scripts O Failed LG alerts x STD •assed 29 169 169 169 Succem 99.2\...
 0.709 0.709 0.709 0.517
-](./images/media/image8.png){width="5.472222222222222in"
-height="5.552083333333333in"}
-
+](./images/media/image8.png)
  
 
  
 
 ![Default v Exports 8 Notifications New Logs-MYTest/#4646 08/26/2023
-19:14 ](./images/media/image9.png){width="3.5597222222222222in"
-height="2.040277777777778in"}
+19:14 ](./images/media/image9.png)
 
  
 
@@ -350,9 +341,7 @@ with Clansaction \"SOI of Magnet Web Debug Inad Test) \\Magnet SOI
 Navigations C: (run #534 Line •n_zser init. c (SSI): E 1101 -27776:
 \[GENERAL MSG ssL ERROR\] connect co host \"slmagn Line •n_zser init. c
 SSI : Notif The 1st messa e associated with Clansaction \"SOL
-](./images/media/image10.png){width="6.5in"
-height="4.711111111111111in"}
-
+](./images/media/image10.png)
  
 
 And after the completing the search, double-click on the result line to
@@ -492,8 +481,7 @@ renegotiation_info (len=l) Extension: server_name (len=ø) Extension:
 bb de fd 2b ae 94 al 99 øøsø a8 2ø Identfies the SSL session, allowing
 later resumption (Ys.handshake.session_d), 32 bytes Packets: 928384 •
 Displayed: 928384 (100.0%) Profile: Default
-](./images/media/image11.png){width="6.5in"
-height="4.547916666666667in"}
+](./images/media/image11.png)
 
  
 
@@ -533,9 +521,7 @@ Extension: (len=ø) CJA3S Fulls-trine: 65281-Ø-16-11-23) CJA3S:
 3abøfe27a2eb9c9cc2961d7d9ed517f1) øøsø a8 2ø 26 4c 49 bb de fd 2b 8e 94
 9c 46 al 99 Identfies the SSL session, allowing later resumption (Hs.
 handshake.session_id), 32 bytes Profile: Default
-](./images/media/image12.png){width="6.5in"
-height="4.547916666666667in"}
-
+](./images/media/image12.png)
  
 
  
@@ -582,8 +568,8 @@ height="4.547916666666667in"}
 |   | Apply as Column Prepare as Filter onversatlon I er Colorize with    |
 |   | Filter Follow Ctrl+Shift+I Prepare as Filter:                       |
 |   | tls.handshake.session_id - Se lected ot e ecte \...and Selected     |
-|   | Profile: Default ](./images/media/image13.png){width="6.5in"        |
-|   | height="4.547916666666667in"}                                       |
+|   | Profile: Default ](./images/media/image13.png)                      |
+|   |                                                                     |
 |   |                                                                     |
 |   |                                                                     |
 +===+=====================================================================+
@@ -602,8 +588,7 @@ the packets related to this stream.
 
 >  
 
-![](./images/media/image14.png){width="6.5in"
-height="4.547916666666667in"}
+![](./images/media/image14.png)
 
  
 
@@ -629,8 +614,7 @@ Key Exchange, Server Hello Done 16286 \* 443 CACK) seq=251 Ack=486ø
 Win-263424 Len-a Client Key Exchange, Change Cipher Spec, Encrypted
 Handshake message 443 \* 16286 CACK\] seq=486e Ack=377 idin=14776 Len-a
 sa 443 \* 16286 CRST, seq=486a ack=377 ik\'in=a Len-a
-](./images/media/image15.png){width="6.5in"
-height="2.277083333333333in"}
+](./images/media/image15.png)
 
  
 
@@ -671,8 +655,7 @@ ACK -251 Ack=4851 Win-263424 Len-e 1ø.ø.ø.12 1ø.ø.e.12 Client Key
 Exchange, Change Cipher Spec, Encrypted Handshake message 443 \* 2676
 CACK) secF;851 Ack=377 win-14776 Len-a Chan e Ci her S c, Enc ed
 Handshake messa e Application Data
-](./images/media/image16.gif){width="6.5in"
-height="1.2631944444444445in"}
+](./images/media/image16.gif)
 
  
 
@@ -714,8 +697,7 @@ Server Hello 443 \* 16286 CACK) seq=1441 Ack=251 Win=1465ø Len=144ø
 \[TCP segment Certificate, Server Key Exchange, Server Hello Done Client
 Key Exchange, Change Cipher Spec, Encrypted Handshake mess 443 \* 16286
 CACK\] seq=486e Ack=377 idin=14776 Len-a sa 443 \* 16286 CRST, seq=486a
-Ack=377 \'k\'in=a Len-a ](./images/media/image17.png){width="6.5in"
-height="2.3722222222222222in"}
+Ack=377 \'k\'in=a Len-a ](./images/media/image17.png)
 
  
 
